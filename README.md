@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- TYPING SVG HEADER -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=6E56CF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Hareth+%F0%9F%91%8B;take+your+Square+in+my;scroll+down+:O.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=6E26CE&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Hareth+%F0%9F%91%8B;take+your+Square+in+my+profile!!!;scroll+down+:O.)](https://git.io/typing-svg)
 
 <!-- PROFILE VIEWS + STATS BADGES -->
 ![Profile Views](https://komarev.com/ghpvc/?username=eequaled&style=for-the-badge&color=6E56CF&label=PROFILE+VIEWS)
