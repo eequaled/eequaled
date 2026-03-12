@@ -10,8 +10,8 @@ permissions:
 
 jobs:
   process-move:
-    # Only run if issue title matches game move pattern and has game-move label
-    if: startsWith(github.event.issue.title, 'CLAIM') && contains(github.event.issue.labels.*.name, 'game-move')
+    # Only run if issue title matches game move pattern
+    if: startsWith(github.event.issue.title, 'CLAIM')
     runs-on: ubuntu-latest
     env:
       MOVE_RESULT: ""
