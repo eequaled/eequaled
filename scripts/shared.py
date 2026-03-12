@@ -130,6 +130,8 @@ def generate_markdown_links(state: Dict[str, Any]) -> str:
 def update_readme(state: Dict[str, Any]) -> None:
     """Update the README.md with new game links between markers."""
     links_md = generate_markdown_links(state)
+    import time
+    timestamp = int(time.time())
 
     try:
         with open("README.md", "r", encoding="utf-8") as f:
@@ -138,9 +140,15 @@ def update_readme(state: Dict[str, Any]) -> None:
         # Replace content between markers
         pattern = r"(<!-- GAME_LINKS_START -->).*?(<!-- GAME_LINKS_END -->)"
         replacement = f"\\1\n\n{links_md}\n\n\\2"
-        new_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
+        content = re.sub(pattern, replacement, content, flags=re.DOTALL)
+
+        # Bust the cache for the SVG image
+        # Finds ![any text](assets/game-board.svg...) or <img src="assets/game-board.svg...">
+        svg_pattern = r"(assets/game-board\.svg)(\?v=\d+)?"
+        svg_replacement = f"\\1?v={timestamp}"
+        content = re.sub(svg_pattern, svg_replacement, content)
 
         with open("README.md", "w", encoding="utf-8") as f:
-            f.write(new_content)
+            f.write(content)
     except Exception as e:
         print(f"Failed to update README: {e}")
