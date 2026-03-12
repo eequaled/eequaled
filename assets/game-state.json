@@ -1,31 +1,11 @@
 {
-  "grid": {
-    "0,0": {
-      "owner": "eequaled",
-      "claimed_at": "2026-03-12T15:32:25Z"
-    },
-    "0,1": {
-      "owner": "eequaled",
-      "claimed_at": "2026-03-12T15:34:32Z"
-    },
-    "1,1": {
-      "owner": "eequaled",
-      "claimed_at": "2026-03-12T15:34:42Z"
-    }
-  },
-  "players": {
-    "eequaled": {
-      "color": "#3bdcbc",
-      "cell_count": 3,
-      "moves_today": 3,
-      "last_move_date": "2026-03-12"
-    }
-  },
+  "grid": {},
+  "players": {},
   "meta": {
     "grid_width": 20,
     "grid_height": 15,
     "max_moves_per_day": 3,
-    "last_reset": "2026-03-12T15:19:39Z",
-    "total_moves": 3
+    "last_reset": "2026-03-12T15:40:57Z",
+    "total_moves": 0
   }
 }
