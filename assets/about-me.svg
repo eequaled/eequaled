@@ -1,0 +1,120 @@
+<svg width="480" height="340" viewBox="0 0 480 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Window Glass Background -->
+  <rect width="480" height="340" rx="12" fill="#1a1b26"/>
+  <rect x="0.5" y="0.5" width="479" height="339" rx="11.5" stroke="#414868" stroke-opacity="0.5"/>
+  
+  <!-- Titlebar -->
+  <circle cx="20" cy="20" r="6" fill="#f7768e"/>
+  <circle cx="40" cy="20" r="6" fill="#e0af68"/>
+  <circle cx="60" cy="20" r="6" fill="#9ece6a"/>
+  
+  <!-- Code Content: Hardcoded styles to bypass GitHub Camo proxy restrictions -->
+  <g font-family="monospace, Courier, 'Courier New'" font-size="13" font-weight="500">
+    <text x="25" y="55">
+      <tspan fill="#bb9af7" font-weight="bold">type</tspan>
+      <tspan fill="#2ac3de"> Student </tspan>
+      <tspan fill="#bb9af7" font-weight="bold">struct</tspan>
+      <tspan fill="#c0caf5"> {</tspan>
+    </text>
+    
+    <text x="50" y="75">
+      <tspan fill="#7aa2f7">Name</tspan>
+      <tspan fill="#c0caf5" xml:space="preserve">     </tspan>
+      <tspan fill="#2ac3de">string</tspan>
+    </text>
+    
+    <text x="50" y="95">
+      <tspan fill="#7aa2f7">Location</tspan>
+      <tspan fill="#c0caf5" xml:space="preserve"> </tspan>
+      <tspan fill="#2ac3de">string</tspan>
+    </text>
+    
+    <text x="50" y="115">
+      <tspan fill="#7aa2f7">Focus</tspan>
+      <tspan fill="#c0caf5" xml:space="preserve">    </tspan>
+      <tspan fill="#89ddff">[]</tspan>
+      <tspan fill="#2ac3de">string</tspan>
+    </text>
+    
+    <text x="50" y="135">
+      <tspan fill="#7aa2f7">Stack</tspan>
+      <tspan fill="#c0caf5" xml:space="preserve">    </tspan>
+      <tspan fill="#89ddff">[]</tspan>
+      <tspan fill="#2ac3de">string</tspan>
+    </text>
+    
+    <text x="50" y="155">
+      <tspan fill="#7aa2f7">Status</tspan>
+      <tspan fill="#c0caf5" xml:space="preserve">   </tspan>
+      <tspan fill="#2ac3de">string</tspan>
+    </text>
+    
+    <text x="25" y="175" fill="#c0caf5">}</text>
+    
+    
+    <text x="25" y="205">
+      <tspan fill="#7aa2f7">me</tspan>
+      <tspan fill="#c0caf5" xml:space="preserve"> </tspan>
+      <tspan fill="#89ddff">:=</tspan>
+      <tspan fill="#c0caf5" xml:space="preserve"> </tspan>
+      <tspan fill="#2ac3de">Student</tspan>
+      <tspan fill="#c0caf5">{</tspan>
+    </text>
+    
+    <text x="50" y="225">
+      <tspan fill="#7aa2f7">Name</tspan>
+      <tspan fill="#89ddff">:</tspan>
+      <tspan fill="#c0caf5" xml:space="preserve">     </tspan>
+      <tspan fill="#9ece6a">"Hareth Moussaoui (eequaled)"</tspan>
+      <tspan fill="#c0caf5">,</tspan>
+    </text>
+    
+    <text x="50" y="245">
+      <tspan fill="#7aa2f7">Location</tspan>
+      <tspan fill="#89ddff">:</tspan>
+      <tspan fill="#c0caf5" xml:space="preserve"> </tspan>
+      <tspan fill="#9ece6a">"Algiers, Algeria"</tspan>
+      <tspan fill="#c0caf5">,</tspan>
+    </text>
+    
+    <text x="50" y="265">
+      <tspan fill="#7aa2f7">Focus</tspan>
+      <tspan fill="#89ddff">:</tspan>
+      <tspan fill="#c0caf5" xml:space="preserve"> </tspan>
+      <tspan fill="#89ddff">[]</tspan>
+      <tspan fill="#2ac3de">string</tspan>
+      <tspan fill="#c0caf5">{</tspan>
+      <tspan fill="#9ece6a">"Pipelines"</tspan>
+      <tspan fill="#c0caf5">, </tspan>
+      <tspan fill="#9ece6a">"Automation"</tspan>
+      <tspan fill="#c0caf5">},</tspan>
+    </text>
+    
+    <text x="50" y="285">
+      <tspan fill="#7aa2f7">Stack</tspan>
+      <tspan fill="#89ddff">:</tspan>
+      <tspan fill="#c0caf5" xml:space="preserve">  </tspan>
+      <tspan fill="#89ddff">[]</tspan>
+      <tspan fill="#2ac3de">string</tspan>
+      <tspan fill="#c0caf5">{</tspan>
+      <tspan fill="#9ece6a">"Go"</tspan>
+      <tspan fill="#c0caf5">, </tspan>
+      <tspan fill="#9ece6a">"TS"</tspan>
+      <tspan fill="#c0caf5">, </tspan>
+      <tspan fill="#9ece6a">"Rust"</tspan>
+      <tspan fill="#c0caf5">, </tspan>
+      <tspan fill="#9ece6a">"Python"</tspan>
+      <tspan fill="#c0caf5">},</tspan>
+    </text>
+    
+    <text x="50" y="305">
+      <tspan fill="#7aa2f7">Status</tspan>
+      <tspan fill="#89ddff">:</tspan>
+      <tspan fill="#c0caf5" xml:space="preserve"> </tspan>
+      <tspan fill="#9ece6a">"p2p meshs are massive"</tspan>
+      <tspan fill="#c0caf5">,</tspan>
+    </text>
+    
+    <text x="25" y="325" fill="#c0caf5">}</text>
+  </g>
+</svg>

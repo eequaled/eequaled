@@ -1,0 +1,59 @@
+name: Territory Game - Process Move
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  process-move:
+    # Only run if issue title matches game move pattern and has game-move label
+    if: startsWith(github.event.issue.title, 'CLAIM') && contains(github.event.issue.labels.*.name, 'game-move')
+    runs-on: ubuntu-latest
+    env:
+      MOVE_RESULT: ""
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Parse issue title and process move
+        env:
+          MOVE_PLAYER: ${{ github.event.issue.user.login }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+        run: |
+          # Parse coords from title like "CLAIM 4,7"
+          COORDS=$(echo "$ISSUE_TITLE" | grep -oE '[0-9]+,[0-9]+' | head -1)
+          export MOVE_COORDS="$COORDS"
+          python scripts/process-move.py
+
+      - name: Commit updated board and state
+        run: |
+          git config user.name "territory-bot"
+          git config user.email "territory-bot@users.noreply.github.com"
+          git add assets/game-state.json assets/game-board.svg README.md
+          git diff --staged --quiet || git commit -m "🗺️ Territory move by @${{ github.event.issue.user.login }}"
+          git push
+
+      - name: Close the issue
+        uses: peter-evans/close-issue@v3
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          comment: |
+            ${{ env.MOVE_RESULT }}
+            
+            ♟️ **Move processed!** The board has been updated.
+            [View the updated board](https://github.com/eequaled/eequaled#-territory-conquest)
