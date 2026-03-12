@@ -10,13 +10,11 @@
 
 ---
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eequaled&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" />
-
 ### 🧠 About Me
 
-[![About Me](https://raw.githubusercontent.com/eequaled/eequaled/main/assets/about-me.svg)](https://github.com/eequaled/eequaled/blob/main/assets/about-me.svg)
-
-<br clear="right"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/eequaled/eequaled/main/assets/about-me.svg" alt="About Me & Languages" width="840" />
+</div>
 
 ---
 
