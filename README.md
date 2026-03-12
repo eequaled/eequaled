@@ -79,12 +79,10 @@ Gives LLMs chronological video understanding via smart frame extraction + OCR us
 <tr>
 <td width="50%">
 
-**🌐 [ta3limi-website](https://github.com/eequaled/ta3limi-website)**
-> *Full-stack medical education platform*
+**🌐 [everythingdiscordbot](https://github.com/eequaled/everythingdiscordbot)**
+> *Archived for upcoming major changes*
 
-Built with Next.js 15, React 19, Prisma + Postgres, NextAuth v5.
-
-`Next.js` `React 19` `Prisma` `Postgres`
+`moderation` `dm announcements` `music` `aichat` `platform bridge` `image reverse search`
 
 </td>
 <td width="50%">
@@ -111,19 +109,8 @@ Auto-scrapes and bulk-downloads all course materials from Moodle (PDFs, videos, 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=eequaled&theme=tokyonight&hide_border=true&card_width=500)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eequaled&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-
 </div>
 
----
-
-### 🏆 Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=eequaled&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
-</div>
 
 ---
 
