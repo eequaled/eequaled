@@ -1,11 +1,23 @@
 {
-  "grid": {},
-  "players": {},
+  "grid": {
+    "2,1": {
+      "owner": "eequaled",
+      "claimed_at": "2026-03-12T15:41:50Z"
+    }
+  },
+  "players": {
+    "eequaled": {
+      "color": "#3bdcbc",
+      "cell_count": 1,
+      "moves_today": 1,
+      "last_move_date": "2026-03-12"
+    }
+  },
   "meta": {
     "grid_width": 20,
     "grid_height": 15,
     "max_moves_per_day": 3,
     "last_reset": "2026-03-12T15:40:57Z",
-    "total_moves": 0
+    "total_moves": 1
   }
 }
