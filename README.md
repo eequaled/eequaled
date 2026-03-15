@@ -12,9 +12,7 @@
 
 ### 🧠 About Me
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/eequaled/eequaled/main/assets/about-me.svg" alt="About Me & Languages" width="840" />
-</div>
+under better construction
 
 ---
 
