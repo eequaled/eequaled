@@ -47,13 +47,17 @@
     "2,2": {
       "owner": "eequaled",
       "claimed_at": "2026-03-15T16:59:33Z"
+    },
+    "3,2": {
+      "owner": "eequaled",
+      "claimed_at": "2026-03-15T17:03:30Z"
     }
   },
   "players": {
     "eequaled": {
       "color": "#3bdcbc",
-      "cell_count": 2,
-      "moves_today": 1,
+      "cell_count": 3,
+      "moves_today": 2,
       "last_move_date": "2026-03-15"
     },
     "LazyClicks": {
@@ -74,6 +78,6 @@
     "grid_height": 15,
     "max_moves_per_day": 3,
     "last_reset": "2026-03-12T15:40:57Z",
-    "total_moves": 12
+    "total_moves": 13
   }
 }
