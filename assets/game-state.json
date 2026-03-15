@@ -43,14 +43,18 @@
     "17,1": {
       "owner": "Nooorrrr",
       "claimed_at": "2026-03-15T00:43:35Z"
+    },
+    "2,2": {
+      "owner": "eequaled",
+      "claimed_at": "2026-03-15T16:59:33Z"
     }
   },
   "players": {
     "eequaled": {
       "color": "#3bdcbc",
-      "cell_count": 1,
+      "cell_count": 2,
       "moves_today": 1,
-      "last_move_date": "2026-03-12"
+      "last_move_date": "2026-03-15"
     },
     "LazyClicks": {
       "color": "#dca13b",
@@ -70,6 +74,6 @@
     "grid_height": 15,
     "max_moves_per_day": 3,
     "last_reset": "2026-03-12T15:40:57Z",
-    "total_moves": 11
+    "total_moves": 12
   }
 }
