@@ -31,7 +31,8 @@
     <text x="124" y="87" fill="#ffffff" font-size="12" text-anchor="middle" font-weight="bold">EE</text>
     <rect x="146" y="62" width="40" height="40" fill="#dca13b" stroke="#b0802f" stroke-width="1" rx="4" ry="4" />
     <text x="166" y="87" fill="#ffffff" font-size="12" text-anchor="middle" font-weight="bold">LA</text>
-    <rect x="188" y="62" width="40" height="40" fill="#21262d" stroke="#30363d" stroke-width="1" rx="4" ry="4" />
+    <rect x="188" y="62" width="40" height="40" fill="#3bdcbc" stroke="#2fb096" stroke-width="1" rx="4" ry="4" />
+    <text x="208" y="87" fill="#ffffff" font-size="12" text-anchor="middle" font-weight="bold">EE</text>
     <rect x="230" y="62" width="40" height="40" fill="#21262d" stroke="#30363d" stroke-width="1" rx="4" ry="4" />
     <rect x="272" y="62" width="40" height="40" fill="#21262d" stroke="#30363d" stroke-width="1" rx="4" ry="4" />
     <rect x="314" y="62" width="40" height="40" fill="#21262d" stroke="#30363d" stroke-width="1" rx="4" ry="4" />
@@ -325,15 +326,15 @@
     <text x="1000" y="80" fill="#8b949e" font-size="14" text-anchor="end">12</text>
     <rect x="880" y="98" width="16" height="16" fill="#3bdcbc" rx="2" ry="2"/>
     <text x="904" y="110" fill="#c9d1d9" font-size="14">eequaled</text>
-    <text x="1000" y="110" fill="#8b949e" font-size="14" text-anchor="end">5</text>
+    <text x="1000" y="110" fill="#8b949e" font-size="14" text-anchor="end">6</text>
     <rect x="880" y="128" width="16" height="16" fill="#dca13b" rx="2" ry="2"/>
     <text x="904" y="140" fill="#c9d1d9" font-size="14">LazyClicks</text>
     <text x="1000" y="140" fill="#8b949e" font-size="14" text-anchor="end">1</text>
     <text x="880" y="680" fill="#8b949e" font-size="12">Moves reset daily</text>
     <rect x="20" y="670" width="840" height="6" fill="#21262d" rx="3" ry="3"/>
-    <rect x="20" y="670" width="50.4" height="6" fill="#3fb950" rx="3" ry="3"/>
-    <text x="20" y="700" fill="#8b949e" font-size="12">Territory claimed: 18/300 (6%)</text>
+    <rect x="20" y="670" width="53.2" height="6" fill="#3fb950" rx="3" ry="3"/>
+    <text x="20" y="700" fill="#8b949e" font-size="12">Territory claimed: 19/300 (6%)</text>
     <text x="440" y="700" fill="#8b949e" font-size="12" text-anchor="middle">Board resets monthly</text>
-    <text x="860" y="700" fill="#8b949e" font-size="12" text-anchor="end">Last updated: 2026-03-22T17:50:08Z</text>
+    <text x="860" y="700" fill="#8b949e" font-size="12" text-anchor="end">Last updated: 2026-03-23T03:54:26Z</text>
   </g>
 </svg>
