@@ -75,6 +75,10 @@
     "4,1": {
       "owner": "eequaled",
       "claimed_at": "2026-03-23T03:54:26Z"
+    },
+    "17,2": {
+      "owner": "Nooorrrr",
+      "claimed_at": "2026-03-29T18:07:44Z"
     }
   },
   "players": {
@@ -92,9 +96,9 @@
     },
     "Nooorrrr": {
       "color": "#3b49dc",
-      "cell_count": 12,
-      "moves_today": 3,
-      "last_move_date": "2026-03-22"
+      "cell_count": 13,
+      "moves_today": 1,
+      "last_move_date": "2026-03-29"
     }
   },
   "meta": {
@@ -102,6 +106,6 @@
     "grid_height": 15,
     "max_moves_per_day": 3,
     "last_reset": "2026-03-12T15:40:57Z",
-    "total_moves": 19
+    "total_moves": 20
   }
 }
