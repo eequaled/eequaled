@@ -121,7 +121,8 @@
     <rect x="692" y="188" width="40" height="40" fill="#21262d" stroke="#30363d" stroke-width="1" rx="4" ry="4" />
     <rect x="734" y="188" width="40" height="40" fill="#21262d" stroke="#30363d" stroke-width="1" rx="4" ry="4" />
     <rect x="776" y="188" width="40" height="40" fill="#21262d" stroke="#30363d" stroke-width="1" rx="4" ry="4" />
-    <rect x="818" y="188" width="40" height="40" fill="#21262d" stroke="#30363d" stroke-width="1" rx="4" ry="4" />
+    <rect x="818" y="188" width="40" height="40" fill="#3b49dc" stroke="#2f3ab0" stroke-width="1" rx="4" ry="4" />
+    <text x="838" y="213" fill="#ffffff" font-size="12" text-anchor="middle" font-weight="bold">NO</text>
     <rect x="20" y="230" width="40" height="40" fill="#21262d" stroke="#30363d" stroke-width="1" rx="4" ry="4" />
     <rect x="62" y="230" width="40" height="40" fill="#21262d" stroke="#30363d" stroke-width="1" rx="4" ry="4" />
     <rect x="104" y="230" width="40" height="40" fill="#21262d" stroke="#30363d" stroke-width="1" rx="4" ry="4" />
@@ -325,7 +326,7 @@
     <text x="880" y="40" fill="#e6edf3" font-size="16" font-weight="bold">TOP PLAYERS</text>
     <rect x="880" y="68" width="16" height="16" fill="#3b49dc" rx="2" ry="2"/>
     <text x="904" y="80" fill="#c9d1d9" font-size="14">Nooorrrr</text>
-    <text x="1000" y="80" fill="#8b949e" font-size="14" text-anchor="end">14</text>
+    <text x="1000" y="80" fill="#8b949e" font-size="14" text-anchor="end">15</text>
     <rect x="880" y="98" width="16" height="16" fill="#3bdcbc" rx="2" ry="2"/>
     <text x="904" y="110" fill="#c9d1d9" font-size="14">eequaled</text>
     <text x="1000" y="110" fill="#8b949e" font-size="14" text-anchor="end">6</text>
@@ -334,9 +335,9 @@
     <text x="1000" y="140" fill="#8b949e" font-size="14" text-anchor="end">1</text>
     <text x="880" y="680" fill="#8b949e" font-size="12">Moves reset daily</text>
     <rect x="20" y="670" width="840" height="6" fill="#21262d" rx="3" ry="3"/>
-    <rect x="20" y="670" width="58.800000000000004" height="6" fill="#3fb950" rx="3" ry="3"/>
-    <text x="20" y="700" fill="#8b949e" font-size="12">Territory claimed: 21/300 (7%)</text>
+    <rect x="20" y="670" width="61.6" height="6" fill="#3fb950" rx="3" ry="3"/>
+    <text x="20" y="700" fill="#8b949e" font-size="12">Territory claimed: 22/300 (7%)</text>
     <text x="440" y="700" fill="#8b949e" font-size="12" text-anchor="middle">Board resets monthly</text>
-    <text x="860" y="700" fill="#8b949e" font-size="12" text-anchor="end">Last updated: 2026-03-29T18:08:09Z</text>
+    <text x="860" y="700" fill="#8b949e" font-size="12" text-anchor="end">Last updated: 2026-03-29T18:08:40Z</text>
   </g>
 </svg>
