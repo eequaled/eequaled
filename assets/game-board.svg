@@ -130,7 +130,8 @@
     <rect x="272" y="272" width="40" height="40" fill="#21262d" stroke="#30363d" stroke-width="1" rx="4" ry="4" />
     <rect x="314" y="272" width="40" height="40" fill="#21262d" stroke="#30363d" stroke-width="1" rx="4" ry="4" />
     <rect x="356" y="272" width="40" height="40" fill="#21262d" stroke="#30363d" stroke-width="1" rx="4" ry="4" />
-    <rect x="398" y="272" width="40" height="40" fill="#21262d" stroke="#30363d" stroke-width="1" rx="4" ry="4" />
+    <rect x="398" y="272" width="40" height="40" fill="#3b49dc" stroke="#2f3ab0" stroke-width="1" rx="4" ry="4" />
+    <text x="418" y="297" fill="#ffffff" font-size="12" text-anchor="middle" font-weight="bold">NO</text>
     <rect x="440" y="272" width="40" height="40" fill="#21262d" stroke="#30363d" stroke-width="1" rx="4" ry="4" />
     <rect x="482" y="272" width="40" height="40" fill="#21262d" stroke="#30363d" stroke-width="1" rx="4" ry="4" />
     <rect x="524" y="272" width="40" height="40" fill="#21262d" stroke="#30363d" stroke-width="1" rx="4" ry="4" />
@@ -306,12 +307,12 @@
     <text x="880" y="40" fill="#e6edf3" font-size="16" font-weight="bold">TOP PLAYERS</text>
     <rect x="880" y="68" width="16" height="16" fill="#3b49dc" rx="2" ry="2"/>
     <text x="904" y="80" fill="#c9d1d9" font-size="14">Nooorrrr</text>
-    <text x="1000" y="80" fill="#8b949e" font-size="14" text-anchor="end">2</text>
+    <text x="1000" y="80" fill="#8b949e" font-size="14" text-anchor="end">3</text>
     <text x="880" y="680" fill="#8b949e" font-size="12">Moves reset daily</text>
     <rect x="20" y="670" width="840" height="6" fill="#21262d" rx="3" ry="3"/>
-    <rect x="20" y="670" width="5.6000000000000005" height="6" fill="#3fb950" rx="3" ry="3"/>
-    <text x="20" y="700" fill="#8b949e" font-size="12">Territory claimed: 2/300 (0%)</text>
+    <rect x="20" y="670" width="8.4" height="6" fill="#3fb950" rx="3" ry="3"/>
+    <text x="20" y="700" fill="#8b949e" font-size="12">Territory claimed: 3/300 (1%)</text>
     <text x="440" y="700" fill="#8b949e" font-size="12" text-anchor="middle">Board resets monthly</text>
-    <text x="860" y="700" fill="#8b949e" font-size="12" text-anchor="end">Last updated: 2026-04-01T09:23:33Z</text>
+    <text x="860" y="700" fill="#8b949e" font-size="12" text-anchor="end">Last updated: 2026-04-01T09:24:13Z</text>
   </g>
 </svg>
