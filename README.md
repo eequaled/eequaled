@@ -108,18 +108,6 @@ Auto-scrapes and bulk-downloads all course materials from Moodle (PDFs, videos, 
 </div>
 
 
----
-
-### 🐍 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/eequaled/eequaled/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ### 🗺️ Territory Conquest
 
 > A community strategy game. Click a cell to claim it. Expand from your territory.
