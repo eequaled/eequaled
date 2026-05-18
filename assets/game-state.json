@@ -7,13 +7,17 @@
     "3,2": {
       "owner": "nferhat",
       "claimed_at": "2026-05-18T09:23:25Z"
+    },
+    "3,3": {
+      "owner": "nferhat",
+      "claimed_at": "2026-05-18T09:24:06Z"
     }
   },
   "players": {
     "nferhat": {
       "color": "#4b3bdc",
-      "cell_count": 2,
-      "moves_today": 2,
+      "cell_count": 3,
+      "moves_today": 3,
       "last_move_date": "2026-05-18"
     }
   },
@@ -22,6 +26,6 @@
     "grid_height": 15,
     "max_moves_per_day": 3,
     "last_reset": "2026-05-01T02:51:12Z",
-    "total_moves": 2
+    "total_moves": 3
   }
 }
