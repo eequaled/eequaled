@@ -164,7 +164,7 @@ Auto-scrapes and bulk-downloads all course materials from Moodle (PDFs, videos, 
 
 <div align="center">
 
-*Algerian builder turning complex low-level systems and AI pipelines into simple, powerful tools.*
+*Algerian dev. I make Windows do things it wasn't supposed to. and feed it to other things*
 
 </div>
 
