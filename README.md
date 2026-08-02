@@ -96,12 +96,7 @@ Auto-scrapes and bulk-downloads all course materials from Moodle (PDFs, videos, 
 
 ---
 
-### 📊 GitHub Stats & 3D Contributions
-
-<div align="center">
-
-<!-- 3D Contribution Calendar -->
-<img src="https://raw.githubusercontent.com/eequaled/eequaled/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" style="width: 100%; max-width: 800px;">
+### 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=eequaled&theme=tokyonight&hide_border=true&card_width=500)
 
