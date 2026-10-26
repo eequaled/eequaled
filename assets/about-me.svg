@@ -45,28 +45,28 @@
     <rect x="0.5" y="0.5" width="339" height="339" rx="11.5" stroke="#414868" stroke-opacity="0.5"/>
     <text x="30" y="45" class="title">Most Used Languages</text>
     <circle cx="35" cy="71" r="4" fill="#00ADD8"/>
-    <text x="45" y="75" class="lang-text">Go 25.6%</text>
-    <path d="M 304.99645027192025 170.67930262019226 A 65 65 0 0 0 240.0 105.0" fill="none" stroke="#00ADD8" stroke-width="16" stroke-dasharray="102.78107622797467 408.4070449666731" stroke-dashoffset="102.78107622797467" class="arc" />
+    <text x="45" y="75" class="lang-text">Go 25.4%</text>
+    <path d="M 304.9999696984704 169.93723697007613 A 65 65 0 0 0 240.0 105.0" fill="none" stroke="#00ADD8" stroke-width="16" stroke-dasharray="102.03899820199149 408.4070449666731" stroke-dashoffset="102.03899820199149" class="arc" />
     <circle cx="35" cy="99" r="4" fill="#f1e05a"/>
     <text x="45" y="103" class="lang-text">JavaScript 23.7%</text>
-    <path d="M 244.51462864751696 234.8430268276784 A 65 65 0 0 0 304.9563955421604 172.38047855911358" fill="none" stroke="#f1e05a" stroke-width="16" stroke-dasharray="95.20248383913722 408.4070449666731" stroke-dashoffset="95.20248383913722" class="arc" />
+    <path d="M 245.25220551940203 234.78745509110513 A 65 65 0 0 0 304.97933877685523 171.63875932420913" fill="none" stroke="#f1e05a" stroke-width="16" stroke-dasharray="95.2048904760338 408.4070449666731" stroke-dashoffset="95.2048904760338" class="arc" />
     <circle cx="35" cy="127" r="4" fill="#3178c6"/>
-    <text x="45" y="131" class="lang-text">TypeScript 23.5%</text>
-    <path d="M 175.86535240254366 180.57104429799105 A 65 65 0 0 0 242.81568903564064 234.93898594261057" fill="none" stroke="#3178c6" stroke-width="16" stroke-dasharray="94.30012489896716 408.4070449666731" stroke-dashoffset="94.30012489896716" class="arc" />
+    <text x="45" y="131" class="lang-text">TypeScript 23.3%</text>
+    <path d="M 176.111853235083 181.97099423374794 A 65 65 0 0 0 243.5544678568288 234.9027407607319" fill="none" stroke="#3178c6" stroke-width="16" stroke-dasharray="93.61828194796561 408.4070449666731" stroke-dashoffset="93.61828194796561" class="arc" />
     <circle cx="35" cy="155" r="4" fill="#3572A5"/>
-    <text x="45" y="159" class="lang-text">Python 19.3%</text>
-    <path d="M 207.68762086932625 113.6004418907772 A 65 65 0 0 0 175.610612064328 178.8885725102256" fill="none" stroke="#3572A5" stroke-width="16" stroke-dasharray="77.20078979532185 408.4070449666731" stroke-dashoffset="77.20078979532185" class="arc" />
+    <text x="45" y="159" class="lang-text">Python 19.6%</text>
+    <path d="M 207.34501232505573 113.79811586833375 A 65 65 0 0 0 175.8203820100866 180.29449535765525" fill="none" stroke="#3572A5" stroke-width="16" stroke-dasharray="78.22675881712084 408.4070449666731" stroke-dashoffset="78.22675881712084" class="arc" />
     <circle cx="35" cy="183" r="4" fill="#b07219"/>
-    <text x="45" y="187" class="lang-text">Java 6.4%</text>
-    <path d="M 232.1794216624311 105.47218774461706 A 65 65 0 0 0 209.17506183184668 112.77392913252277" fill="none" stroke="#b07219" stroke-width="16" stroke-dasharray="24.276215245756884 408.4070449666731" stroke-dashoffset="24.276215245756884" class="arc" />
+    <text x="45" y="187" class="lang-text">Java 6.3%</text>
+    <path d="M 231.60390370411335 105.54454587088694 A 65 65 0 0 0 208.8273961894751 112.96256692599107" fill="none" stroke="#b07219" stroke-width="16" stroke-dasharray="24.091709832118987 408.4070449666731" stroke-dashoffset="24.091709832118987" class="arc" />
     <circle cx="35" cy="211" r="4" fill="#663399"/>
     <text x="45" y="215" class="lang-text">CSS 1.0%</text>
-    <path d="M 236.27236579198197 105.10697461813625 A 65 65 0 0 0 233.8712427851334 105.28958093937871" fill="none" stroke="#663399" stroke-width="16" stroke-dasharray="2.4081943662887513 408.4070449666731" stroke-dashoffset="2.4081943662887513" class="arc" />
+    <path d="M 235.74340274444066 105.13952374670716 A 65 65 0 0 0 233.29402792751506 105.34684896648075" fill="none" stroke="#663399" stroke-width="16" stroke-dasharray="2.4582800924575565 408.4070449666731" stroke-dashoffset="2.4582800924575565" class="arc" />
     <circle cx="35" cy="239" r="4" fill="#e34c26"/>
     <text x="45" y="243" class="lang-text">HTML 0.3%</text>
-    <path d="M 239.11906543066618 105.00596985657411 A 65 65 0 0 0 237.9723445300879 105.03163374922119" fill="none" stroke="#e34c26" stroke-width="16" stroke-dasharray="1.147022929232428 408.4070449666731" stroke-dashoffset="1.147022929232428" class="arc" />
-    <circle cx="35" cy="267" r="4" fill="#89e051"/>
-    <text x="45" y="271" class="lang-text">Shell 0.1%</text>
-    <path d="M 239.52412606754424 105.00174199257023 A 65 65 0 0 0 239.11906543066618 105.00596985657411" fill="none" stroke="#89e051" stroke-width="16" stroke-dasharray="0.4050833562037134 408.4070449666731" stroke-dashoffset="0.4050833562037134" class="arc" />
+    <path d="M 238.73980020001625 105.01221732922318 A 65 65 0 0 0 237.44271070811573 105.05032508566642" fill="none" stroke="#e34c26" stroke-width="16" stroke-dasharray="1.2976707136369001 408.4070449666731" stroke-dashoffset="1.2976707136369001" class="arc" />
+    <circle cx="35" cy="267" r="4" fill="#012456"/>
+    <text x="45" y="271" class="lang-text">PowerShell 0.1%</text>
+    <path d="M 239.29163076733474 105.00386001438075 A 65 65 0 0 0 238.73980020001625 105.01221732922318" fill="none" stroke="#012456" stroke-width="16" stroke-dasharray="0.5518955060523294 408.4070449666731" stroke-dashoffset="0.5518955060523294" class="arc" />
   </g>
 </svg>
